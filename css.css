@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+}
+
+.cabecalho {
+    border: solid 1px white;
+}
+
+th, td {
+    padding: .75rem;
+    border: solid 1px #000000;
+}
+
+thead {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    border-left: solid 1px;
+    font-weight: bold;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
